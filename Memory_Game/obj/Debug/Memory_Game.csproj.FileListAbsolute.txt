@@ -1,0 +1,9 @@
+C:\Users\Ajla\Desktop\c#Vezbanje\Memory_Game\Memory_Game\bin\Debug\Memory_Game.exe.config
+C:\Users\Ajla\Desktop\c#Vezbanje\Memory_Game\Memory_Game\bin\Debug\Memory_Game.exe
+C:\Users\Ajla\Desktop\c#Vezbanje\Memory_Game\Memory_Game\bin\Debug\Memory_Game.pdb
+C:\Users\Ajla\Desktop\c#Vezbanje\Memory_Game\Memory_Game\obj\Debug\Memory_Game.csprojResolveAssemblyReference.cache
+C:\Users\Ajla\Desktop\c#Vezbanje\Memory_Game\Memory_Game\obj\Debug\Memory_Game.Form1.resources
+C:\Users\Ajla\Desktop\c#Vezbanje\Memory_Game\Memory_Game\obj\Debug\Memory_Game.Properties.Resources.resources
+C:\Users\Ajla\Desktop\c#Vezbanje\Memory_Game\Memory_Game\obj\Debug\Memory_Game.csproj.GenerateResource.Cache
+C:\Users\Ajla\Desktop\c#Vezbanje\Memory_Game\Memory_Game\obj\Debug\Memory_Game.exe
+C:\Users\Ajla\Desktop\c#Vezbanje\Memory_Game\Memory_Game\obj\Debug\Memory_Game.pdb
